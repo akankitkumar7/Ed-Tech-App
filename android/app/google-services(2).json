@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818955697782",
+    "project_id": "tutor-a637b",
+    "storage_bucket": "tutor-a637b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818955697782:android:18a01c8a4ccb4b2680e957",
+        "android_client_info": {
+          "package_name": "com.example.ankit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLAzzcJdSIUJWlPCAsLAfOh5qLcGH8N78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
